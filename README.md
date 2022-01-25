@@ -11,7 +11,7 @@ A curated list of awesome storytelling papers, including relavant datasets and m
 
 ## Character Identification
 
-* [Mr. Bennet, his coachman, and the Archbishop walk into a bar but only one of them gets recognized: On The Difficulty of Detecting Characters in Literary Texts] (https://aclanthology.org/D15-1088/), EMNLP 2015
+* [Mr. Bennet, his coachman, and the Archbishop walk into a bar but only one of them gets recognized: On The Difficulty of Detecting Characters in Literary Texts](https://aclanthology.org/D15-1088/), EMNLP 2015
 
 * [Character Identification Refined: A Proposal](https://aclanthology.org/W19-2402/), Workshop on Narrative Understanding 2019
 
