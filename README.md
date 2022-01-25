@@ -18,6 +18,10 @@ A curated list of awesome storytelling papers, including relavant datasets and m
 
 ## Visual Storytelling
 
+* [Plot and Rework: Modeling Storylines for Visual Storytelling](https://arxiv.org/abs/2105.06950), ACL 2021 Findings
+
+* [Imagine, Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/16410), AAAI 2021
+
 * [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](https://arxiv.org/abs/1804.09160), ACL 2018
 
 ## Character Grounded Movie Description
