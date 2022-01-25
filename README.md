@@ -4,7 +4,7 @@ A curated list of awesome storytelling papers, including relavant datasets and m
 
 ## Datasets
 
-* ["Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding](https://arxiv.org/abs/2109.05438), [Dataset](https://github.com/fabrahman/char-centric-story), Findings of EMNLP 2021
+* ["Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding](https://arxiv.org/abs/2109.05438), Findings of EMNLP 2021, [Dataset](https://github.com/fabrahman/char-centric-story)
 
 
 ## Character Identification
