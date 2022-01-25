@@ -4,15 +4,9 @@ A curated list of awesome storytelling papers, including relavant datasets and m
 
 ## Datasets
 
-* [Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding](https://arxiv.org/abs/2109.05438), [[Dataset]](https://github.com/fabrahman/char-centric-story), Findings of EMNLP 2021, 
+* [Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding](https://arxiv.org/abs/2109.05438), Findings of EMNLP 2021 [dataset](https://github.com/fabrahman/char-centric-story),  
 
-* [Visual Storytelling](https://arxiv.org/abs/1604.03968), [[Dataset]](https://visionandlanguage.net/VIST/), NAACL 2016
-
-## Datasets
-
-[Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding](https://arxiv.org/abs/2109.05438), [[Dataset]](https://github.com/fabrahman/char-centric-story), Findings of EMNLP 2021, 
-
-[Visual Storytelling](https://arxiv.org/abs/1604.03968), [[Dataset]](https://visionandlanguage.net/VIST/), NAACL 2016
+* [Visual Storytelling](https://arxiv.org/abs/1604.03968), NAACL 2016 [dataset](https://visionandlanguage.net/VIST/)
 
 
 ## Character Identification
