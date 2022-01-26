@@ -39,7 +39,7 @@ A curated list of awesome storytelling papers, including relavant datasets and m
 
 * [Generating Descriptions with Grounded and Co-Referenced People](https://arxiv.org/abs/1704.01518), CVPR 2017
 
-## Personality Learning
+## Persona Learning
 
 * [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155), ACL 2016
 
