@@ -33,9 +33,11 @@ A curated list of awesome storytelling papers with a focus on characters in the 
 
 * [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](https://arxiv.org/abs/1804.09160), ACL 2018
 
-## Character Grounded Movie Description
+## Grounded Movie Description
 
 * [Character Grounding and Re-Identification in Story of Videos and Text Descriptions](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500528.pdf), ECCV 2020 [[code]](https://github.com/yj-yu/CiSIN)
+
+* [Grounded Video Description](https://arxiv.org/abs/1812.06587), CVPR 2019 [[ActivityNet-Entities dataset]](https://github.com/facebookresearch/ActivityNet-Entities)
 
 * [Generating Descriptions with Grounded and Co-Referenced People](https://arxiv.org/abs/1704.01518), CVPR 2017
 
