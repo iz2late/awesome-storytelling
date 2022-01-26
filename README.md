@@ -8,6 +8,7 @@ A curated list of awesome storytelling papers, including relavant datasets and m
 
 * [Visual Storytelling](https://arxiv.org/abs/1604.03968), NAACL 2016 [[dataset]](https://visionandlanguage.net/VIST/)
 
+* [M-VAD Names: a Dataset for Video Captioning with Naming](https://arxiv.org/abs/1903.01489), [[dataset]](https://github.com/aimagelab/mvad-names-dataset), [[video demo]](https://www.youtube.com/watch?v=dOvtAXbOOH4)
 
 ## Character Identification
 
@@ -26,5 +27,6 @@ A curated list of awesome storytelling papers, including relavant datasets and m
 
 ## Character Grounded Movie Description
 
-## Character Relevant Stuff
+* [Character Grounding and Re-Identification in Story of Videos and Text Descriptions](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500528.pdf), ECCV 2020 [[code]](https://github.com/yj-yu/CiSIN)
 
+* [Generating Descriptions with Grounded and Co-Referenced People Anna](https://arxiv.org/abs/1704.01518), CVPR 2017
