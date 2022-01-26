@@ -12,12 +12,12 @@ A curated list of awesome storytelling papers, including relavant datasets and m
 
 * [M-VAD Names: a Dataset for Video Captioning with Naming](https://arxiv.org/abs/1903.01489), [[dataset]](https://github.com/aimagelab/mvad-names-dataset), [[video demo]](https://www.youtube.com/watch?v=dOvtAXbOOH4)
 
+* [A Corpus and Evaluation Framework for Deeper Understanding of Commonsense Stories](https://arxiv.org/abs/1604.01696), NAACL 2016 [[ROCStories]](https://cs.rochester.edu/nlp/rocstories/)
 ## Character Identification
 
 * [Character Identification Refined: A Proposal](https://aclanthology.org/W19-2402/), Workshop on Narrative Understanding 2019
 
 * [Mr. Bennet, his coachman, and the Archbishop walk into a bar but only one of them gets recognized: On The Difficulty of Detecting Characters in Literary Texts](https://aclanthology.org/D15-1088/), EMNLP 2015
-
 
 ## Visual Storytelling
 
@@ -32,3 +32,11 @@ A curated list of awesome storytelling papers, including relavant datasets and m
 * [Character Grounding and Re-Identification in Story of Videos and Text Descriptions](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500528.pdf), ECCV 2020 [[code]](https://github.com/yj-yu/CiSIN)
 
 * [Generating Descriptions with Grounded and Co-Referenced People](https://arxiv.org/abs/1704.01518), CVPR 2017
+
+## Personality Learning
+
+* [Learning Latent Personas of Film Characters](https://aclanthology.org/P13-1035/), ACL 2013
+
+## Story Generation
+
+* [Modeling Protagonist Emotions for Emotion-Aware Storytelling](https://arxiv.org/abs/2010.06822), EMNLP 2020
