@@ -10,12 +10,15 @@ A curated list of awesome storytelling papers, including relavant datasets and m
 
 * [CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text](https://aclanthology.org/D19-1458.pdf), EMNLP 2019 [[dataset]](https://github.com/facebookresearch/clutrr)
 
+* [A Corpus and Evaluation Framework for Deeper Understanding of Commonsense Stories](https://arxiv.org/abs/1604.01696), NAACL 2016 [[ROCStories]](https://cs.rochester.edu/nlp/rocstories/)
+
 ### Visual
+
 * [Visual Storytelling](https://arxiv.org/abs/1604.03968), NAACL 2016 [[dataset]](https://visionandlanguage.net/VIST/)
 
 * [M-VAD Names: a Dataset for Video Captioning with Naming](https://arxiv.org/abs/1903.01489), [[dataset]](https://github.com/aimagelab/mvad-names-dataset), [[video demo]](https://www.youtube.com/watch?v=dOvtAXbOOH4)
 
-* [A Corpus and Evaluation Framework for Deeper Understanding of Commonsense Stories](https://arxiv.org/abs/1604.01696), NAACL 2016 [[ROCStories]](https://cs.rochester.edu/nlp/rocstories/)
+
 ## Character Identification
 
 * [Character Identification Refined: A Proposal](https://aclanthology.org/W19-2402/), Workshop on Narrative Understanding 2019
@@ -38,8 +41,12 @@ A curated list of awesome storytelling papers, including relavant datasets and m
 
 ## Personality Learning
 
+* [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155), ACL 2016
+
 * [Learning Latent Personas of Film Characters](https://aclanthology.org/P13-1035/), ACL 2013
 
 ## Story Generation
 
 * [Modeling Protagonist Emotions for Emotion-Aware Storytelling](https://arxiv.org/abs/2010.06822), EMNLP 2020
+
+* [Neural Text Generation in Stories Using Entity Representations as Context](https://aclanthology.org/N18-1204/), ACL 2018
