@@ -1,4 +1,4 @@
-# Reading List for storytelling
+# Reading List for Neural Storytelling
 
 A curated list of awesome storytelling papers with a focus on characters in the narratives, including relevant datasets and models for both traditional story generation and visual storytelling.
 
