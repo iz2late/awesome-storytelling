@@ -1,6 +1,6 @@
-# Reading list for storytelling
+# Reading List for storytelling
 
-A curated list of awesome storytelling papers, including relavant datasets and models for both traditional story generation and visual storytelling.
+A curated list of awesome storytelling papers with a focus on characters in the narratives, including relevant datasets and models for both traditional story generation and visual storytelling.
 
 ## Datasets
 
